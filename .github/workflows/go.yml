@@ -2,7 +2,7 @@ name: Go
 
 on:
   push:
-    branches: ["main"]
+    branches: ["sprint_12_first_iteration"]
 
 jobs:
 
